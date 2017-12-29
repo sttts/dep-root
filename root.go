@@ -7,5 +7,5 @@ import (
 )
 
 func main() {
-	fmt.Printf("release of dep-root calling dep-a: %s\n", a.A())
+	fmt.Printf("master of dep-root calling dep-a: %s\n", a.A())
 }
